@@ -1123,7 +1123,7 @@ premium services
 - [RetroMania.gg](https://retromania.gg/)
 - [CDRomance](https://cdromance.org/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [r/Roms](https://www.reddit.com/r/Roms/) For ROM related discussions.
-- [SwitchGamesMall](https://www.switchgamesmall.icu/) Download Free Switch Roms (more than 11K+). 
+- [SmallGames](https://smallgames.ch/) Download Free Switch Roms. 
 
 
 ### Console Games
